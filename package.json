@@ -1,0 +1,12 @@
+{
+  "name": "Iron-Steal",
+  "version": "1.0.0",
+  "description": "Iron Steal Mc Afk",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.12.0"
+  }
+}
